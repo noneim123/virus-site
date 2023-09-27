@@ -1,0 +1,31 @@
+body {
+    font: 1.5em Arial, Helvetica, sans-serif; /* Шрифт на веб-сторінці */
+    background: #000000; /*Колір фону */
+    color: #D71920; /*Колір тексту  */
+}
+a { color: #D71920; /*Колір посилань */ }
+#container {
+    width: 500px; /*Ширина тесту */
+    margin: 10 auto; /*Вирівнюваємо по центру */
+    background: #000000; /*Колір колонок */
+}
+#header {
+    font-size: 2.5em; /*Розмір тексту */ 
+    text-align: left; /*Вирівнування */
+    padding: 5px; /*Колір тла шапки */
+    background: #000000; /*Лолір тла шапки */
+}
+#context {
+    background: #000000;
+    margin: 0 120px; /*Ширина колонок */
+    padding: 10px;
+}
+#aside {
+    float: right; color: #000; color: #006400 
+}
+h2 { margin: 0 0 lem; }
+#footer {
+    clear: both; /*Скасуємо дію float */
+    padding: 5px; /*Відступи навколо тексту */
+    background: #D71920; /*Колір фону підвалу */
+}
